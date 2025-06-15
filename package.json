@@ -1,0 +1,24 @@
+{
+  "name": "fileflow-ui",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@vaadin/router": "^2.0.0",
+    "autoprefixer": "^10.4.21",
+    "axios": "^1.9.0",
+    "daisyui": "^5.0.43",
+    "postcss": "^8.5.5",
+    "tailwindcss": "^4.1.10",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.10",
+    "@tailwindcss/vite": "^4.1.10"
+  }
+}
